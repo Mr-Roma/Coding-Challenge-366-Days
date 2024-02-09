@@ -1,3 +1,9 @@
+// 11/366
+
+// https://www.codewars.com/kata/5672a98bdbdd995fad00000f
+
+// ROCK, PAPER & SCISSORS
+
 package main
 
 import "fmt"
