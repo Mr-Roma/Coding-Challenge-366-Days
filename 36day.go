@@ -1,9 +1,3 @@
-// 36/366
-
-// https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/go
-
-// Count Positives/Sum Negatives
-
 package main
 
 import "fmt"
